@@ -401,8 +401,16 @@ A complex transmedia experience.
 
 
 
-Για την ταινία χρησιμοποιούμε animations,graphics και video ενώ για το κόμικ εικόνες.10.2Is the overall look realistic or a fantasy environment?
+Για την ταινία χρησιμοποιούμε animations,graphics και video ενώ για το κόμικ εικόνες.
+
+
+
+**10.2 Is the overall look realistic or a fantasy environment?**
+
+
 Στυριζεται σε ήδη υπάρχουσες πόλεις της Αμερικής.
+
+
 
 
 **10.3 Is it possible to identify specific design styles in the project?**
