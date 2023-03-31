@@ -408,7 +408,7 @@ A complex transmedia experience.
 **10.2 Is the overall look realistic or a fantasy environment?**
 
 
-Στυριζεται σε ήδη υπάρχουσες πόλεις της Αμερικής.
+Στηρίζεται σε ήδη υπάρχουσες πόλεις της Αμερικής.
 
 
 
