@@ -4,9 +4,9 @@ Transmedia Report
 
 | # | AM | GitHub profile |
 | ------------- | ------------- | ------------- |
-| 1  | dpsd19009 | [gh link](https://github.com/Ebabouraki) |
-| 2  | dpsd19049 | [gh link](https://github.com/dpsd19049) |
-| 3  | dpsd19126 | [gh link](https://github.com/dpsd19126) |
+| 1  | dpsd19009 | [https://github.com/Ebabouraki](https://github.com/Ebabouraki) |
+| 2  | dpsd19049 | [https://github.com/dpsd19049](https://github.com/dpsd19049) |
+| 3  | dpsd19126 | [https://github.com/dpsd19126](https://github.com/dpsd19126) |
 
 
 1.Premise and Purpose
