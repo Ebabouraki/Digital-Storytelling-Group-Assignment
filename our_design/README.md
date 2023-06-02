@@ -154,11 +154,11 @@ Computer, πρόγραμμα δημιουργίας animation, τηλέφωνo.
 
 </p>    
 <p><strong>18. ΣΚΗΝΕΣ</strong>
-         </p>   
-        
-     
-![Στιγμιότυπο οθόνης ![Στιγμιότυπο οθόνης (449)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/03a6964d-d327-4fc5-ba43-5398ee1f45fe)
-(450)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/42c191b2-3eb1-4cf0-983e-a79d2170e036)
+  
+  ![Στιγμιότυπο οθόνης (449)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/ce38c919-38c5-4556-92cd-9acdd0c45e68)
+
+![Στιγμιότυπο οθόνης (450)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/016e9304-868f-48a8-96ce-0a23bf06f668)
+
 ![Στιγμιότυπο οθόνης (451)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/a8a176c8-59eb-42b7-8889-485c9e6756ee)
 ![Στιγμιότυπο οθόνης (452)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/fe44e390-fb7b-420c-8761-9bed0961260a)
 ![Στιγμιότυπο οθόνης (453)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/c7219cd2-0c20-4d96-abdd-8c455ef82e03)
