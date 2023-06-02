@@ -188,5 +188,5 @@ Computer, πρόγραμμα δημιουργίας animation, τηλέφωνo.
  <p><strong>19. EVALUATION</strong>
 <p> Για την ταίνια σιγούρα θα προσπάθουθαμε να είχαμε πιο στάθερα πλάνα και το animation θα γινόταν με περισσότερη προσοχή για να φαόνεται πιο ομαλό και φυσικό.
  
-   To link για τη ταινία μας είναι:[Wrong Choices?]( https://youtu.be/odKbEN6KsnI)
+   To link για τη ταινία μας είναι:[Wrong Choices?](https://youtu.be/oJPZtuFyLb0)
  
