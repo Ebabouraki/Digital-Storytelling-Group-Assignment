@@ -43,7 +43,7 @@
 
 ![Στιγμιότυπο οθόνης (987)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/59001573-071e-43fe-bd87-90ab39e4b2d7)
 
-
+![Screenshot (23)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/518c31bb-abfb-4c30-a823-6f5854b1058a)
 
 ![Στιγμιότυπο οθόνης (988)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/76bea93d-47fc-4025-b45d-6e76f12b9815)
 
