@@ -155,9 +155,25 @@ Computer, πρόγραμμα δημιουργίας animation, τηλέφωνo.
 </p>    
 <p><strong>18. ΣΚΗΝΕΣ</strong>
          </p>   
-         
-         ΦΩΤΟΓΡΑΦΙΕΣ ΑΠΟ ΤΙΕ ΕΙΚΟΝΙΚΕΣ ΚΑΜΕΡΕΣ
-         
+        
+     
+![Στιγμιότυπο οθόνης ![Στιγμιότυπο οθόνης (449)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/03a6964d-d327-4fc5-ba43-5398ee1f45fe)
+(450)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/42c191b2-3eb1-4cf0-983e-a79d2170e036)
+![Στιγμιότυπο οθόνης (451)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/a8a176c8-59eb-42b7-8889-485c9e6756ee)
+![Στιγμιότυπο οθόνης (452)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/fe44e390-fb7b-420c-8761-9bed0961260a)
+![Στιγμιότυπο οθόνης (453)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/c7219cd2-0c20-4d96-abdd-8c455ef82e03)
+![Uploading Στιγμιότυπ![Στιγμιότυπο οθόνης (454)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/a532703e-d58c-45e6-975f-35d056579757)
+![Στιγμιότυπο οθόνης (455)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/4e4e7d62-2faf-4c4b-ac5e-4d8aa5a592d6)
+![Στιγμιότυπο οθόνης (456)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/25ad437a-2fd7-42c8-ac3f-56017810b0e2)
+
+![Στιγμιότυπο οθόνης (457)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/f1afdb01-e8fd-4472-9d0c-5125bd725537)
+![Στιγμιότυπο οθόνης (458)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/b36620a3-a874-4684-83ae-04b158841040)
+![Στιγμιότυπο οθόνης (459)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/9d7f173e-e3e0-4f27-bb2f-9ea447fb7edf)
+![Στιγμιότυπο οθόνης (460)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/d7a78579-8b5c-4d9b-b26f-84573101fe5b)
+![Στιγμιότυπο οθόνης (461)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/59505912-7926-4ae5-95f9-5c9bbcca6969)
+![Στιγμιότυπο οθόνης (462)](https://github.com/Ebabouraki/Digital-Storytelling-Group-Assignment/assets/100956280/17f75889-92e0-4253-aacf-038256345640)
+
+
          
  <p><strong>19. EVALUATION</strong>
 <p> Για την ταίνια σιγούρα θα προσπάθουθαμε να είχαμε πιο στάθερα πλάνα και το animation θα γινόταν με περισσότερη προσοχή για να φαόνεται πιο ομαλό και φυσικό.
